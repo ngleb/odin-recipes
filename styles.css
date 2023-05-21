@@ -7,10 +7,11 @@ body {
 }
 
 .heading {
-	font-weight: 900;
+	font-weight: 700;
 	color: #FCCB06;
 	text-align: center;
 	font-size: 48px;
+	font-family: Montserrat;
 }
 
 .image {
@@ -26,6 +27,7 @@ h2 {
 	font-size: 32px;
 	text-align: left;
 	color: #FCCB06;
+	font-family: Montserrat;
 }
 
 .link {
